@@ -1,0 +1,4 @@
+# Project exclude paths
+/s3FirstSteps/target/
+/s5ExpressionsStatementsMore/target/
+/s6ControlFlow/target/
