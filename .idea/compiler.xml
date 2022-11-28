@@ -9,6 +9,7 @@
         <module name="s3FirstSpets" />
         <module name="s6ControlFlow" />
         <module name="s5ExpressionsStatementsMore" />
+        <module name="s19Debugging" />
         <module name="s3FirstSteps" />
       </profile>
     </annotationProcessing>
