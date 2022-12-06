@@ -13,6 +13,7 @@
         <module>s5ExpressionsStatementsMore</module>
         <module>s6ControlFlow</module>
         <module>s19Debugging</module>
+        <module>s7OOP1</module>
     </modules>
 
     <properties>
