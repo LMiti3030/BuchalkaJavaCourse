@@ -187,9 +187,6 @@ x
 Hs7OOP1/src/test/java/mititelu/laura/challenges/exercises/PersonTest.java,a\1\a18181d11aaf0a1da232dce363878498c40a3f2c
 t
 Ds7OOP1/src/main/java/mititelu/laura/challenges/exercises/Person.java,c\4\c4e408f28a57cdae33bf9436fda10dab5ec2d1d6
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 t
 Ds7OOP1/src/main/java/mititelu/laura/challenges/classes/Customer.java,d\a\da7ec656a600b76f90e5b18f2597c5499208e4a0
 €
