@@ -14,6 +14,7 @@
         <module>s6ControlFlow</module>
         <module>s7OOP1</module>
         <module>s8OOP2</module>
+        <module>s9ArraysListsAndBoxing</module>
     </modules>
 
     <properties>
