@@ -6,12 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="s3FirstSpets" />
+        <module name="s8OOP2" />
         <module name="s6ControlFlow" />
-        <module name="s5ExpressionsStatementsMore" />
-        <module name="s19Debugging" />
+        <module name="s15IO" />
         <module name="s3FirstSteps" />
+        <module name="s3FirstSpets" />
+        <module name="s5ExpressionsStatementsMore" />
+        <module name="s7OOP1" />
+        <module name="s9ArraysListsAndBoxing" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="s19Debugging" target="17" />
+      <module name="s3FirstSpets" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
